@@ -13,7 +13,7 @@ This project showcases:
 ---
 
 ## 🚀 Live Demo  
-👉 *(Add your Netlify / Vercel link here)*
+👉 https://baby-bliss-pwa-demo.vercel.app/
 
 ## ✨ Features
 
