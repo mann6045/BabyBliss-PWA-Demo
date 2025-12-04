@@ -1,4 +1,4 @@
-# 🍼 BabyBliss — Mini E-Commerce PWA (Demo Only)
+# BabyBliss — Mini E-Commerce PWA (Demo Only)
 
 BabyBliss is a **demo-only mini e-commerce web application** for baby products, inspired by FirstCry.com.  
 It includes a clean UI, animated product cards, PWA setup, push notification demo, and an installable app banner.
@@ -14,22 +14,6 @@ This project showcases:
 
 ## 🚀 Live Demo  
 👉 *(Add your Netlify / Vercel link here)*
-
----
-
-## 📸 Screenshots
-
-### Home Page  
-*(Replace with your screenshots)*  
-![BabyBliss Screenshot](./screenshots/home.png)
-
-### Push Notification  
-![Notification Screenshot](./screenshots/notification.png)
-
-### Install PWA Banner  
-![Install App Banner](./screenshots/install-banner.png)
-
----
 
 ## ✨ Features
 
